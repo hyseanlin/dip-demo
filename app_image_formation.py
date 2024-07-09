@@ -3,6 +3,7 @@ import cv2
 import streamlit as st
 from PIL import Image
 
+# 加速版的 2D Gaussian 函式處理
 def image_formation_model(f, x0, y0, sigma):
     nr, nc = f.shape[:2]
     
