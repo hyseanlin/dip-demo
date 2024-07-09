@@ -1,3 +1,5 @@
+# python 版本 3.11
+# streamlit 上的設定
 numpy==1.23.5
 opencv-contrib-python-headless==4.10.0.84
 Pillow==10.4.0
